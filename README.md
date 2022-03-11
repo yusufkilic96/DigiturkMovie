@@ -1,6 +1,8 @@
 # DigiturkMovie
 
 An Android app that shows popular movies by genres. 
+
+[Watch Demo](https://drive.google.com/file/d/12TNQNIt_qPxNoUYAR88uWyMr2kF1BIv8/view)
  
 ## Specs & Open-source libraries
  
