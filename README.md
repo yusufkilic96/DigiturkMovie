@@ -1,4 +1,4 @@
-# DigiturkMovie
+# MovieApp
 
 An Android app that shows popular movies by genres. 
 
